@@ -51,3 +51,7 @@ The analysis is limited by the quality and scope of the available data. Any unre
 ## AI Use Disclosure
 
 AI was used as a learning and troubleshooting resource during the project. Details of the assistance received and the role of AI in the workflow are documented in `module-2-ai-use-disclosure.md`.
+
+## LinenLane Q4 2024 Sales Analysis — Final Excel Workbook
+
+[Download the LinenLane Q4 2024 Excel Workbook](./linenlane-q4-2024_final.xlsx)
